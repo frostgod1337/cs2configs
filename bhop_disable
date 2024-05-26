@@ -1,0 +1,9 @@
+//Disable bhopping
+//Use by typing "exec bhop_disable" into the ingame console
+
+sv_cheats 1;
+sv_falldamage_scale 1;
+sv_enablebunnyhopping false;
+sv_autobunnyhopping false;
+sv_airaccelerate 12;
+sv_maxvelocity 3500;
