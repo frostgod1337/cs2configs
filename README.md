@@ -6,3 +6,16 @@
 my personal config files for counter-strike 2
 
 files are stored in: "...\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg" 
+
+
+## Contents:
+
+<ul>
+  <li><a href="https://github.com/frostgod1337/cs2configs/blob/main/autoexec.cfg">autoexec.cfg</a></li>
+  <li><a href="https://github.com/frostgod1337/cs2configs/blob/main/practice.cfg">practice.cfg</a></li>
+  <li>
+    <a href="https://github.com/frostgod1337/cs2configs/blob/main/bhop.cfg">bhop.cfg</a> /
+    <a href="https://github.com/frostgod1337/cs2configs/blob/main/bhop_disable.cfg">bhop_disable.cfg</a>
+  </li>
+</ul>
+
