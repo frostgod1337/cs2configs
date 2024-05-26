@@ -11,11 +11,11 @@ files have to be stored in: "...\Steam\steamapps\common\Counter-Strike Global Of
 ## Contents:
 
 <ul>
-  <li><a href="https://github.com/frostgod1337/cs2configs/blob/main/autoexec.cfg">autoexec.cfg</a></li>
-  <li><a href="https://github.com/frostgod1337/cs2configs/blob/main/practice.cfg">practice.cfg</a></li>
+  <li><a href="https://github.com/frostgod1337/cs2configs/blob/main/cfg/autoexec.cfg">autoexec.cfg</a></li>
+  <li><a href="https://github.com/frostgod1337/cs2configs/blob/main/cfg/practice.cfg">practice.cfg</a></li>
   <li>
-    <a href="https://github.com/frostgod1337/cs2configs/blob/main/bhop.cfg">bhop.cfg</a> /
-    <a href="https://github.com/frostgod1337/cs2configs/blob/main/bhop_disable.cfg">bhop_disable.cfg</a>
+    <a href="https://github.com/frostgod1337/cs2configs/blob/main/cfg/bhop.cfg">bhop.cfg</a> /
+    <a href="https://github.com/frostgod1337/cs2configs/blob/main/cfg/bhop_disable.cfg">bhop_disable.cfg</a>
   </li>
 </ul>
 
