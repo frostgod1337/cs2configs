@@ -19,3 +19,22 @@ files have to be stored in: "...\Steam\steamapps\common\Counter-Strike Global Of
   </li>
 </ul>
 
+
+## Description of files:
+
+### autoexec.cfg :
+My personal playing config including:
+- Custom Viewmodel, Sensitivity & Crosshair
+- Custom Keybinds
+
+### practice.cfg :
+Config for mostly testing and practicing stuff in private games including:
+- Placeable static bots per keypress
+- Noclip bind
+- Infinite ammo, money, buytime & round-length
+- Buying anywhere
+- Grenade preview window
+
+### bhop.cfg :
+Simple config to enable auto-bunnyhopping in private games.
+- Disable by using "bhop_disable.cfg"
