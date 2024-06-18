@@ -1,5 +1,5 @@
 <p align="center">
-  <kbd><img src="https://github.com/frostgod1337/cs2configs/blob/main/media/cs2_banner.PNG" alt="cs2_banner"></kbd>
+  <kbd><img src="media/cs2_banner.PNG" alt="cs2_banner"></kbd>
 </p>
 
 # cs2configs
@@ -11,11 +11,11 @@ files have to be stored in: "...\Steam\steamapps\common\Counter-Strike Global Of
 ## Contents:
 
 <ul>
-  <li><a href="https://github.com/frostgod1337/cs2configs/blob/main/cfg/autoexec.cfg">autoexec.cfg</a></li>
-  <li><a href="https://github.com/frostgod1337/cs2configs/blob/main/cfg/practice.cfg">practice.cfg</a></li>
+  <li><a href="cfg/autoexec.cfg">autoexec.cfg</a></li>
+  <li><a href="cfg/practice.cfg">practice.cfg</a></li>
   <li>
-    <a href="https://github.com/frostgod1337/cs2configs/blob/main/cfg/bhop.cfg">bhop.cfg</a> /
-    <a href="https://github.com/frostgod1337/cs2configs/blob/main/cfg/bhop_disable.cfg">bhop_disable.cfg</a>
+    <a href="cfg/bhop.cfg">bhop.cfg</a> /
+    <a href="cfg/bhop_disable.cfg">bhop_disable.cfg</a>
   </li>
 </ul>
 
