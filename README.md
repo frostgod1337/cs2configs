@@ -13,6 +13,8 @@ files have to be stored in: "...\Steam\steamapps\common\Counter-Strike Global Of
 <ul>
   <li><a href="cfg/autoexec.cfg">autoexec.cfg</a></li>
   <li><a href="cfg/viewmodels">viewmodels</a></li>
+  <li><a href="cfg/crosshairs">crosshairs</a></li>
+
   <li><a href="cfg/practice.cfg">practice.cfg</a></li>
   <li>
     <a href="cfg/bhop.cfg">bhop.cfg</a> /
