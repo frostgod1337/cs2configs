@@ -12,6 +12,7 @@ files have to be stored in: "...\Steam\steamapps\common\Counter-Strike Global Of
 
 <ul>
   <li><a href="cfg/autoexec.cfg">autoexec.cfg</a></li>
+  <li><a href="cfg/gamemodes">gamemodes</a></li>
   <li><a href="cfg/viewmodels">viewmodels</a></li>
   <li><a href="cfg/crosshairs">crosshairs</a></li>
 
@@ -43,9 +44,12 @@ Config for mostly testing and practicing stuff in private games including:
 Simple config to enable auto-bunnyhopping in private games.
 - Disable by using "bhop_disable.cfg"
 
+### gamemodes :
+A collection of custom gamemodes.
+
 ### viewmodels & crosshairs :
-Some viewmodles and crosshairs I use for playing
+Some viewmodles and crosshairs I use for playing.
 - Switchable via arrow keys (set in autoexec.cfg)
 
 ### reset_cvars.cfg :
-Resets all custom cvars and restores normal gameplay
+Resets all custom cvars and restores normal gameplay.
