@@ -25,12 +25,12 @@ files have to be stored in: "...\Steam\steamapps\common\Counter-Strike Global Of
 
 ## Description of files:
 
-### autoexec.cfg :
+### :star2: autoexec.cfg :
 My personal playing config including:
 - Custom Viewmodel, Sensitivity & Crosshair
 - Custom Keybinds
 
-### practice.cfg :
+### :star2: practice.cfg :
 Config for mostly testing and practicing stuff in private games including:
 - Placeable static bots per keypress
 - Noclip bind
@@ -38,16 +38,16 @@ Config for mostly testing and practicing stuff in private games including:
 - Buying anywhere
 - Grenade preview window
 
-### bhop.cfg :
+### :star2: bhop.cfg :
 Simple config to enable auto-bunnyhopping in private games.
 - Disable by using "bhop_disable.cfg"
 
-### reset_cvars.cfg :
+### :star2: reset_cvars.cfg :
 Resets all custom cvars and restores normal gameplay.
 
-### gamemodes :
+### :star2: gamemodes :
 A collection of custom gamemodes.
 
-### viewmodels & crosshairs :
+### :star2: viewmodels & crosshairs :
 Some viewmodels and crosshairs I use for playing.
 - Switchable via arrow keys (set in autoexec.cfg)
