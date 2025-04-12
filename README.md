@@ -45,12 +45,12 @@ Config for mostly testing and practicing stuff in private games including:
 Simple config to enable auto-bunnyhopping in private games.
 - Disable by using "bhop_disable.cfg"
 
+### reset_cvars.cfg :
+Resets all custom cvars and restores normal gameplay.
+
 ### gamemodes :
 A collection of custom gamemodes.
 
 ### viewmodels & crosshairs :
 Some viewmodles and crosshairs I use for playing.
 - Switchable via arrow keys (set in autoexec.cfg)
-
-### reset_cvars.cfg :
-Resets all custom cvars and restores normal gameplay.
