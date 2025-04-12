@@ -3,9 +3,9 @@
 </p>
 
 # cs2configs
-my personal config files for counter-strike 2
+My personal config files for counter-strike 2
 
-files have to be stored in: "...\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg" 
+Files have to be stored in: "...\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg" 
 
 
 ## Contents:
@@ -32,8 +32,7 @@ My personal playing config including:
 
 ### :star2: practice.cfg :
 Config for mostly testing and practicing stuff in private games including:
-- Placeable static bots per keypress
-- Noclip bind
+- Static bots 
 - Infinite ammo, money, buytime & round-length
 - Buying anywhere
 - Grenade preview window
