@@ -1,5 +1,5 @@
 <p align="center">
-  <kbd><img src="media/cs2_banner.PNG" alt="cs2_banner"></kbd>
+  <kbd><img src="media/cs2_banner_frostgod.PNG" alt="cs2_banner_frostgod"></kbd>
 </p>
 
 # cs2configs
