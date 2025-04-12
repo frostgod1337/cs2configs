@@ -52,5 +52,5 @@ Resets all custom cvars and restores normal gameplay.
 A collection of custom gamemodes.
 
 ### viewmodels & crosshairs :
-Some viewmodles and crosshairs I use for playing.
+Some viewmodels and crosshairs I use for playing.
 - Switchable via arrow keys (set in autoexec.cfg)
