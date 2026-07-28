@@ -66,7 +66,7 @@ My video settings including:
 ##
 
 ### :star2: practice.cfg :
-Config for mostly testing and practicing stuff in private games including:
+Mostly for testing and practicing stuff in private games including:
 - Static bots 
 - Infinite ammo, money, buytime & round-length
 - Buying anywhere
